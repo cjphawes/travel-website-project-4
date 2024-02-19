@@ -1,10 +1,17 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Hello fellow coders!
 
-Welcome,
+### User stories
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+#### New users
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+- As a new user, I want to be able to navigate through the website and find what I am looking for with ease.
+- As a new user, I want the information I search for to be displayed in a easy explainable way.
+
+#### Common users
+
+- As a common user, I would like the booking process to be as simple to follow as possible.
+- As a common user, I want to see as much information about the properties as possible with nothing hidden.
+- As a common user, It would nice to see some personalization towards the user based on preferences etc.
 
 ## Codeanywhere Reminders
 
