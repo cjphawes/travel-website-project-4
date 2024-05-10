@@ -10,8 +10,13 @@ Hello fellow coders!
 #### Common users
 
 - As a common user, I would like the booking process to be as simple to follow as possible.
-- As a common user, I want to see as much information about the properties as possible with nothing hidden.
-- As a common user, It would nice to see some personalization towards the user based on preferences etc.
+- As a common user, I want to see as much information about the flights as possible with nothing hidden.
+- As a common user, It would nice to see some personalization towards the user based on preferences e.g. languages, common places searched etc.
+
+#### Frequent users
+
+- As a frequent user, I would like to be able to become a member of the website.
+- As a frequent user, I love to be able to figure out any questions I have answers too without having to contact the website.
 
 ## Codeanywhere Reminders
 
